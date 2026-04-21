@@ -1,0 +1,25 @@
+trong mot folder moi tao ra , minh thuc hien cac lenh sau, hay liet ke cac file theo tung vung sau khi
+thao tac mot loat cac lenh sau
+
+Step 1: git init 
+Working Directory: (empty)
+ Staging Area: (empty) 
+Repository: (empty)
+
+ Step 2: touch 02-cacvung-git.txt
+ Working Directory: 02-cacvung-git.txt (untracked) 
+Staging Area: (empty) 
+Repository: (empty) 
+
+ Step 3: git add 02-cacvung-git.txt
+ Working Directory: 02-cacvung-git.txt
+Staging Area: 02-cacvung-git.txt
+Repository: (empty) 
+
+ Step 4: git commit -m "add 02-cacvung-git.txt” 
+Working Directory: 02-cacvung-git.txt
+Staging Area: (empty) 
+Repository: 02-cacvung-git.txt
+
+
+
