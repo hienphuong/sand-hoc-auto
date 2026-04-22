@@ -1,7 +1,0 @@
-git init: initialize a Git repository and create the .git directory
-
-git add <file name>: add a specific file to the staging area
-
-git add .: add all changes to the staging area
-
-git commit -m "message": save staged changes into the repository 
